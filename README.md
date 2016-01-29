@@ -35,9 +35,10 @@ Having self-taught Java through Android development, I did not initially think m
 > addresscache
 >> src
 >>> com.linpossible
->>>> AddressCacheJL.java
->>>> AddressCacheJLTest.java
+>>>> AddressCache.java (interface)
+>>>> InetAddressCache.java
+>>>> AddressCacheTest.java
 
-There are 4 test cases in total in *AddressCacheJLTest.java*. JUnit tests are used.
+There are 4 test cases in total in *AddressCacheTest.java*. JUnit tests are used.
 
 Jason Lin © [jlin.xyz](http://jlin.xyz) 
