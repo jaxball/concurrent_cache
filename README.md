@@ -1,4 +1,4 @@
-## Project: Java self-evicting Address Cache
+Java self-evicting LRU Cache
 Given an interface for a InetAddress cache (used in web browsers), implement a cache in Java that supports the following policies:
 
 - Last-in-First-Out retrieval
